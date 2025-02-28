@@ -19,13 +19,20 @@ public class Sample {
 	private void ban() {
 		System.out.println("Bangaladesh");
 	}
+	private void thiru() {
+		System.out.println("Hello Mr.Thiru");
+	}
+	private void malai() {
+		System.out.println("Hello Mr.Malai");
+	}
+
 	private void ramya() {
 
 	}
 	private void raji() {
-
+		
 	}
-	public static void main(String[] args) {
+		public static void main(String[] args) {
 		Sample sample= new Sample();
 		sample.ind();
 		sample.aus();
