@@ -25,7 +25,14 @@ public class Sample {
 	private void malai() {
 		System.out.println("Hello Mr.Malai");
 	}
-	public static void main(String[] args) {
+
+	private void ramya() {
+
+	}
+	private void raji() {
+		
+	}
+		public static void main(String[] args) {
 		Sample sample= new Sample();
 		sample.ind();
 		sample.aus();
