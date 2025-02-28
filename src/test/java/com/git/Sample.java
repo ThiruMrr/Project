@@ -18,7 +18,13 @@ public class Sample {
 	}
 	private void ban() {
 		System.out.println("Bangaladesh");
-	}	
+	}
+	private void thiru() {
+		System.out.println("Hello Mr.Thiru");
+	}
+	private void malai() {
+		System.out.println("Hello Mr.Malai");
+	}
 	public static void main(String[] args) {
 		Sample sample= new Sample();
 		sample.ind();
